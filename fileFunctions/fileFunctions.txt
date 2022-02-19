@@ -1,0 +1,6 @@
+A 
+text file about to  be change in end
+A 
+a+ mode append the new content in end without deleting the old content
+A 
+a+ mode append the new content in end without deleting the old content
